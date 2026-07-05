@@ -1,3 +1,21 @@
+# Hi there, I'm Durga Mohan
+
+AI Developer | Full Stack Developer | Business Intelligence Enthusiast
+
+Building AI-powered applications, intelligent automation systems, scalable web platforms, and data-driven solutions. My interests span artificial intelligence, agentic AI, backend engineering, cloud technologies, and business intelligence, with a focus on designing software that is practical, scalable, and impactful.
+
+> Building software that solves real-world problems through clean architecture, intelligent systems, and modern development practices.
+
+## About Me
+
+- Building AI applications, autonomous agent workflows, and full-stack software.
+- Interested in large language models, agentic AI, backend engineering, and cloud-native development.
+- Developing data analytics and business intelligence solutions using Power BI and Tableau.
+- Exploring software architecture, distributed systems, and scalable application design.
+- Active in engineering projects.
+- Continuously improving problem-solving skills through hands-on projects and hackathons.
+
+
 ## Tech that I work with
 
 ### Languages
